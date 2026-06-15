@@ -1,4 +1,4 @@
-# Re-Up
+# ReeUp
 
 Cannabis supply chain management platform — from seed to sale.
 
